@@ -48,11 +48,3 @@ for val in nums:
         print("value is found at index ", idx)
         break
     idx +=1
-
-
-
-## range() function
-    
-seq = range(10)
-for i in seq: 
-    print(i)
