@@ -1,3 +1,7 @@
+
+
+
+#returns all keys
 info = {
     "key" : "value",
     "name" : "mehedi hasan saim",
@@ -26,6 +30,7 @@ print(list(student.keys()))
 print(len(info.keys()))
 print(len(student.keys()))
 
+# length of dictionary key
 # with list
 print(len(list(info.keys())))
 print(len(list(student.keys())))

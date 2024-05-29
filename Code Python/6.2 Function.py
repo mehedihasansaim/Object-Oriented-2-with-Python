@@ -41,5 +41,5 @@ def check_num(n):
     else:
         print("give a valid number")
 
-check_num(22)
+check_num(22)       
 check_num(23)

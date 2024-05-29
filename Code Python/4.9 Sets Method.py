@@ -7,12 +7,12 @@ collection.add(1)
 collection.add(2)
 collection.add(2)
 
-print(collection)   #output: 
+print(collection)   #output: {1,2}
 
 #set.remove(el):
-collection.remove(1)
+collection.remove(1)    
 
-print("After removing element new set :\n",collection)
+print("After removing element new set :\n",collection)     #output: {2}
 print("\n")
 collection.add("hello")
 collection.add((1,2,3,4))                # set er modde touple add 
@@ -27,10 +27,10 @@ print(len(collection))      #output: 0
 
 #set.pop(): 
 set = {"mehedi", "hasan", "saim", "hello", "world"}
-set.pop()          #removed
-print(set.pop())   #removed
+set.pop()          #removed 1 random value
+print(set.pop())   #removed 1 random value
 
-print(set)         #output: removed two value
+print(set)         #output: removed two random value
 
 
 ### set.union():

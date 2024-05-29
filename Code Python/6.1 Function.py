@@ -28,5 +28,4 @@ def avg(a,b,c):
     avg = sum/3
     return avg
 
-
-print(avg(1,2,3))
+print(avg(1,2,3))       # output: 2

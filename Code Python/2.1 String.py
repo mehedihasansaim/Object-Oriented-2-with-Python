@@ -16,7 +16,7 @@ print(str5)
 s1 = "Mehedi Hasan"
 s2 = " Saim"
 final_name = s1 + s2
-print(final_name)
+print(final_name)            #Mehedi Hasan Saim
 
 #length of string 
 length1 = len(s1)

@@ -11,3 +11,12 @@ collection = {1,2,2,2,2, "hello", "saim","hello",2, "hello"}
 print(collection)
 
 print(len(collection))    #total number of items 
+
+
+### Empty set
+
+collect = {}   # empty dictionary format
+print(type(collect))
+
+collect = set()        # emptyp set
+print(type(collect))
